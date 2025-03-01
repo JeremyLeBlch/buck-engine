@@ -21,13 +21,6 @@ The project is under development. Some features are still in the design phase.
 1. Clone this repository:
 2. Install the necessary dependencies.
 3. Run the project!
-
-## 📣 Contribution
-Contributions are welcome! Feel free to suggest improvements, report bugs, or share your ideas.
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 
 ✨ Have fun creating games with **Buck Engine**! 🎮
